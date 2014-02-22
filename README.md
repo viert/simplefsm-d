@@ -3,8 +3,7 @@ simplefsm-d
 
 Simple finite state machine class for D language
 
-Usage
-=====
+## Usage
 
     import fsm, std.stdio;
     
