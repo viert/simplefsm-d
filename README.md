@@ -83,3 +83,6 @@ Simple finite state machine class for D language
       stdin.readln();
     }
     
+### Credits
+
+Inspired by Denis Papathanasiou's post http://denis.papathanasiou.org/2013/02/10/state-machines-in-go-golang/ presenting simple state machine for Go language
